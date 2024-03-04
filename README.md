@@ -1,10 +1,10 @@
-#Projeto SO 22/23 Simulação de uma Discoteca!
-##Alunos: 
+# Projeto SO 22/23 Simulação de uma Discoteca!
+## Alunos: 
 Filipe Lopes - 2048619
 Tom Mendonça - 2049919
 José Branco  - 2034117
 
-##Instruções para colocar o projeto a funcionar:
+## Instruções para colocar o projeto a funcionar:
 
 1- Executar o comando make clean e depois o comando make.
 2- Ligar o monitor.
@@ -23,7 +23,7 @@ Poderá ser necessário a instalação do gcc compiler.
 https://linuxize.com/post/how-to-install-gcc-compiler-on-ubuntu-18-04/
 
 
-##Acontecimentos do Projeto
+## Acontecimentos do Projeto
 
 60 : Abertura da Discoteca
 69 : Encerramento da Discoteca
